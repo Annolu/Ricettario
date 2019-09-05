@@ -3,7 +3,7 @@ import Link from 'gatsby-link'
 
 const Menu = () => (
     <div style={{background: '#ccc', padding: '15px'}}>
-      <ul style={{listStyle: 'none', display: 'flex', justifyContent: 'space-evenly', marginBottom:'0'}}>
+      <ul style={{listStyle: 'none', display: 'flex', justifyContent: 'flex-end', marginBottom:'0'}}>
         <li><Link to='/ingredients'>Ingredients</Link></li>
       </ul>
     </div>

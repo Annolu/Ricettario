@@ -9,15 +9,8 @@ const IndexPage = ({data}) => (
     <SEO title="Home" />
       <div>
         {data.allMarkdownRemark.edges.map(post => (
-          <div key={post.node.id}>
-            <h1>{post.node.frontmatter.title}</h1>
-            <p>{post.node.excerpt}</p>
-            <Link to={post.node.frontmatter.path}>Read More</Link>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <hr/>
+          <div key={post.node.id} style={{textAlign: 'center', padding: '10px', fontWeight: 'semi-bold'}}>
+            <Link to={post.node.frontmatter.path}>{post.node.frontmatter.title}</Link>
           </div>
         ))}
       </div>
