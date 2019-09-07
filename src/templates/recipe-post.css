@@ -1,0 +1,12 @@
+ul {
+  text-align: left;
+}
+
+.back-link-wrapper {
+  border-bottom: 1px solid grey;
+  margin-bottom: 20px;
+}
+ .recipe-body {
+  text-align: center;
+  padding: 10px 140px;
+ }

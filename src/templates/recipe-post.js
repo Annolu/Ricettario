@@ -1,20 +1,22 @@
 import React from "react";
 import Link from "gatsby-link";
 import Layout from "../components/layout.js";
+import "./recipe-post.css";
 
 export default function Template ({data}) {
   const recipe = data.markdownRemark;
 
   return (
     <Layout>
-    <div style={{borderBottom: '1px solid grey', marginBottom: '20px'}}>
+    <div className="back-link-wrapper">
       <Link to='/'>Back</Link>
     </div>
-      <div style={{textAlign:'center', padding: '10px 140px'}}>
+      <div className="recipe-body" style={{}}>
         <h1>{recipe.frontmatter.title}</h1>
         <div dangerouslySetInnerHTML={{__html: recipe.html}}/>
         <p>{recipe.excerpt}</p>
       </div>
+      <footer></footer>
     </Layout>
   )
 }
