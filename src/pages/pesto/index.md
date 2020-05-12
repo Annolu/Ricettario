@@ -22,7 +22,7 @@ The traditional recipe says to use a mortar, although I have one I could never b
 The basil leaves must be completely dry, nice and fresh and not bruised.
 Blend the two cheeses and chop the garlic to a very fine paste. Set both aside.
 
-Add all ingredients to a blender little by little until it's a smooth paste. I usually start with some basil, oil and cheese and then I add the rest of the ingredients. Be careful to not overblend.
+Add all ingredients to a blender little by little until it's a smooth paste. I usually start with some basil, oil and cheese and then I add the rest of the ingredients. Be careful to not over-blend.
 Add to some pasta and serve.
 
 Pesto should never be heated, mix pasta and sauce in the plate.

@@ -9,4 +9,10 @@ ul {
  .recipe-body {
   text-align: center;
   padding: 10px 140px;
- }
+}
+
+@media only screen and (max-width: 600px) {
+  .recipe-body {
+  padding: 10px;
+  }
+}
