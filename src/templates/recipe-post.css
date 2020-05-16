@@ -1,15 +1,10 @@
 *{
-	font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif
+  font-family: 'Montserrat', sans-serif;
 }
 
 ul {
   text-align: left;
 }
-
-/*a{
-font-style: italic;
-}*/
 
 span {
 	border-bottom:2px dashed #FFD2BB;
@@ -20,7 +15,6 @@ span {
   margin-bottom: 20px;
 }
  .recipe-body {
-  text-align: center;
   padding: 10px 140px;
 }
 
