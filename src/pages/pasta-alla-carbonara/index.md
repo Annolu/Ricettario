@@ -10,8 +10,8 @@ serves two people
 - 2 egg yolks
 - 1 whole egg
 - at least 120gr of guanciale (in alternative
-you can use good pancetta
-- at least 2-3 spoonfuls of Pecorino
+you can use good pancetta)
+- at least 2-3 spoonfuls of freshly grated Pecorino
 Romano cheese
 - a good pinch of freshly ground black
 pepper
@@ -23,10 +23,9 @@ pepper
 
 While you boil some water prepare the
 egg mixture. Break and beat the eggs in a
-small bowl. Add the freshly grated
-cheese and some pepper, set aside.
+small bowl. Add cheese and pepper, set aside.
 
-Before adding the pasta and salt to the
+Before adding pasta and salt to the
 boiling water start heating a pan with
 some oil.
 When it's hot add the meat and cook

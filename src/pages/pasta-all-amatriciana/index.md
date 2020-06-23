@@ -10,16 +10,16 @@ serves two people
 sauce (one with only tomatoes.
 It needs to be a good one *)
 - around 70gr of pancetta (ideally it should be guanciale)
-- Pecorino cheese
+- freshly grated Pecorino Romano cheese
 - good pinch of freshly ground black pepper
-- some chilly flakes or 1 fresh chilly
+- some chilli flakes or 1 small fresh chilli
 - pinch of salt and sugar
 - extra virgin olive oil
 
 ###Method###
 
-I usually start boiling the water and prepare the sauce in the
-mean time. Gently fry the chilly in a bit of
+I usually start boiling some water and prepare the sauce in the
+mean time. Gently fry the chilli in a bit of
 oil in a pan for a minute and add the
 meat. Cook until lightly brown, add the black pepper and then the tomato. 
 Some recipes recommend to remove the meat from the pan

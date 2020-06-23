@@ -12,20 +12,20 @@ It needs to be a good one *)
 - 1 clove of garlic
 - fresh basil (it really makes the
 difference)
-- Pecorino cheese
-- some chilly flakes
+- freshly grated Pecorino Romano cheese
+- some chilli flakes
 - extra virgin olive oil
 
 ###Method###
 
-I usually start boiling the water and prepare the sauce in the
-mean time. Gently fry garlic and chilly in a bit of
+I usually start by boiling the water and preparing the sauce in the
+mean time. Gently fry garlic and chilli in a bit of
 oil in a pan for a minute and then add the
 sauce. I usually add a pinch of salt and
-one of sugar. Simmer for 6-7 mins, you
+one of sugar. Simmer for 10-15 mins, you
 may need to add some cooking water of
 the pasta to the sauce if it gets too
-dense.
+thick.
 
 When the pasta is ready, put
 basil, some pecorino, pasta and
