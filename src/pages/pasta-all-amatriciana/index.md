@@ -21,19 +21,16 @@ It needs to be a good one *)
 I usually start boiling some water and prepare the sauce in the
 mean time. Gently fry the chilli in a bit of
 oil in a pan for a minute and add the
-meat. Cook until lightly brown, add the black pepper and then the tomato. 
-Some recipes recommend to remove the meat from the pan
-before adding the tomato, and it makes sense cause it would stay crispier,
-but I'm lazy and I never do it.
-I usually add a pinch of salt and
+meat. Cook until lightly brown and add the black pepper. 
+Remove most of the meat from the pan and set aside, add the tomato to the pan.
+I usually add a small pinch of salt and
 one of sugar. Simmer for at least 10-15 minutes, you
-may need to add some cooking water of
+may need to add some cooking water from
 the pasta to the sauce if it gets too
 thick.
 
-When the pasta is ready, put some pecorino, pasta and
-some more oil into the pan (if you decided to remove the meat earlier,
-this is the point where you would add it back). Stir and cook
+When the pasta is ready, put the pancetta, some pecorino, the pasta and
+some more oil into the pan. Stir and cook
 until the cheese melts, usually about 15
 seconds (this process is called 'mantecatura',
 you can do it to almost any pasta and risotto dish).

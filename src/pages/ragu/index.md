@@ -10,15 +10,15 @@ The traditional recipe wouldn't have this much milk.
 
 - 500gr mince beef
 - 500gr mince pork
-- 300gr italian sausage *
+- 300gr Italian sausage *
 - 170gr smoked pancetta
 - 1 medium tube double concentrate tomato
 - 1 400ml tomato can
-- 100ml of red wine
+- 120ml of red wine
 - 2 small onions
 - 1½ carrots
 - 1½ celery stalks
-- 300-400ml full fat milk
+- 200-300ml full fat milk
 - 50gr butter
 - 1 teaspoon of extra virgin olive oil
 - Salt and pepper to taste
