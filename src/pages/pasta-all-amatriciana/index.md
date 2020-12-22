@@ -10,7 +10,7 @@ serves two people
 sauce (one with only tomatoes.
 It needs to be a good one *)
 - around 70gr of pancetta (ideally it should be guanciale)
-- freshly grated Pecorino Romano cheese
+- freshly grated Pecorino Romano cheese (Parmigiano as an alterntive is not ideal but it's acceptable)
 - good pinch of freshly ground black pepper
 - some chilli flakes or 1 small fresh chilli
 - pinch of salt and sugar
@@ -18,16 +18,18 @@ It needs to be a good one *)
 
 ###Method###
 
-I usually start boiling some water and prepare the sauce in the
-mean time. Gently fry the chilli in a bit of
-oil in a pan for a minute and add the
+I usually start boiling some water for the pasta and prepare the sauce in the
+mean time. 
+Gently fry the chilli in a tiny bit of oil in a pan for a minute and add the
 meat. Cook until lightly brown and add the black pepper. 
 Remove most of the meat from the pan and set aside, add the tomato to the pan.
+If you are not using a non-stick pan and have some wine laying around, deglaze the pan
+with it before adding the tomato sauce. 
+
 I usually add a small pinch of salt and
 one of sugar. Simmer for at least 10-15 minutes, you
 may need to add some cooking water from
-the pasta to the sauce if it gets too
-thick.
+the pasta if the sauce gets too thick.
 
 When the pasta is ready, put the pancetta, some pecorino, the pasta and
 some more oil into the pan. Stir and cook
