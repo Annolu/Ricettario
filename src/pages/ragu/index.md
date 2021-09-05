@@ -13,7 +13,7 @@ The traditional recipe wouldn't have this much milk.
 - 300gr Italian sausage *
 - 170gr smoked pancetta
 - 1 medium tube double concentrate tomato
-- 1 400ml tomato can
+- 1 x 400ml chopped tomatoes tin
 - 120ml of red wine
 - 2 small onions
 - 1½ carrots
