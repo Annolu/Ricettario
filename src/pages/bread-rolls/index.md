@@ -1,31 +1,24 @@
 ---
-path: "/sourdough-bread"
-title: "Sourdough Bread"
+path: "/bread-rolls"
+title: "Simple Bread Rolls"
 ---
 
 ###Ingredients###
 
-- 130gr of starter 
-- 8gr of salt
-- approx. 230gr of room temperature water
-- approx. 400gr of strong flour
-- 8gr of malt flour (optional)
+- 400gr of strong bread flour 
+- 300ml of lukewarm water
+- 8gr of salt 
+- 2gr of instant yeast or 100ml of sourdough starter
 
 ###Method###
 
-Mix starter and water in a bowl. Mix in the dry ingredients, combine and knead till the mixture gains some strength. Cover and leave to rest for a few hours.
-At the beginning, every half hour or so and for at least a couple of time, fold the dough in the bowl so that it takes a more stringy texture.
+Mix the dry ingredients in a bowl and the wet ones in another. If using the instant yeast, it goes with the dry ingredients, if using the sourdough starter, it goes with the water.
 
-After 3-4 hours shape the dough into the desired way and move to a proofing basket (I would recommend watching a youtube video about this step because it can be a little tricky - I end up improvising every time).
+Tip the dry ingredients in the wet ones and mix into a rough dough with a wooden spoon. Rinse the empty bowl and oil with a couple of tablespoons of extra virgin olive oil.
+Tip the rough dough into the oiled bowl, cover and set aside.
+After about 15 minutes, fold the dough a few times - it won't look very promising at first. The dough should be folded at least a couple more times during the proofing time (folding the dough is beneficial, but not indispensable) - after each fold the it should look more elastic. 
 
-The proofing time varies greatly depending on the temperature - it can go from 7h to 12h or more. I usually prepare the dough around 6 in the evening, leave it outside till around 9 and then put it in the fridge till the following morning.
+The dough with the dry yeast will rise a lot more quickly compared to the sourdough version, 3-4 hours compared to up to 8-9. The dough should get double in size at the end.
 
-
-When the dough has risen enough (don't expect it to double in size, it won't be that dramatic) turn on the oven to 220c static. 
-Tip the dough on a sheet of oven paper and score the surface with a sharp blade. That will help the loaf rising in the oven.
-
-I usually cook bread in a dutch oven, if you don't have one place a bowl with some water in the oven while it's heating up and while it's cooking.
-
-If using a dutch oven, cook with the lid on for around 25 minutes and then leave uncovered. Cook for another 15minutes or until golden brown.
-
-Leave to cool on a rack for at least 1 hour before eating.
+Once the dough is nice and bubbly, delicately cut and shape into 5-6 bread rolls and dust with flour.
+Bake in the oven at 230 degrees for about 15 minutes.
