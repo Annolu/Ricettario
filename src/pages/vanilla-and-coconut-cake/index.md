@@ -7,7 +7,7 @@ title: "Vanilla and coconut cake"
 
 - 220gr of 00 flour (I'm sure the normal
 one is fine too)
-- 3 eggs
+- 2 eggs
 - 80gr/100gr of coconut oil
 - 120ml of milk
 - 180gr of sugar (the one you prefer, I

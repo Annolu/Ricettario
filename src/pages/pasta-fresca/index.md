@@ -9,7 +9,7 @@ serves two people
 - 75gr of semolina flour
 - 75gr of 00 flour *
 - 1 egg
-- 25gr of water
+- 25gr of water (or enough to reach 75gr together with the egg)
 - pinch of salt
 
 ###Method###
