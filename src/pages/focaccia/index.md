@@ -1,6 +1,6 @@
 ---
-path: "/bread-rolls"
-title: "Simple Bread Rolls"
+path: "/focaccia"
+title: "Focaccia"
 ---
 
 ###Ingredients###
@@ -20,5 +20,5 @@ After about 15 minutes, fold the dough a few times - it won't look very promisin
 
 The dough with the dry yeast will rise a lot more quickly compared to the sourdough version, 3-4 hours compared to up to 8-9. The dough should get double in size at the end.
 
-Once the dough is nice and bubbly, delicately cut and shape into 5-6 bread rolls and dust with flour.
+Once the dough is nice and bubbly, tip on an oven tray and spread a little, delicately. Wait a few minutes and spread again. The dough is usually pretty elastic and it can take a few rounds of spreading before the whole tray is covered. Sprinkle some water and a few spoonfulls of extra virgin olive oil on the dough. With oily fingertips, press a series of dimples all over the focaccia - ideally these should get filled with the oil. Sprinkle a generous amount of salt flakes on the surface.
 Bake in the oven at 230 degrees for about 15 minutes.
